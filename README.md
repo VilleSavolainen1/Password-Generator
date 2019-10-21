@@ -3,7 +3,7 @@
 
 
 ## General Info
-This app generates a password from randomly choosen letters and symbols.
+This app generates a "password" from randomly choosen letters and symbols.
 
 
 
